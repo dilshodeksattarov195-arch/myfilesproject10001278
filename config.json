@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdecrypt",
+        "uuid": 5453226,
+        "checksum": "934x48"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
